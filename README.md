@@ -6,11 +6,11 @@ Base De Dados:
 Possui 148 linhas , 4 variaveis e 1 classe
 
 Objetivos:
-Verifição de Padrões 
-Limpeza de Dados caso necessário
-Gráfico de pizza 
+Verifição de Padrões<br>
+Limpeza de Dados caso necessário<br>
+Gráfico de pizza<br> 
 ilustrando a porcentagem de tipos de pacotes do software 
 
 Resultado:
-Podemos ver a diferença entre cada plano
-Ajudar na tomada de decisão sobre os planos
+Podemos ver a diferença entre cada plano<br>
+Ajudar na tomada de decisão a utilização dos planos
